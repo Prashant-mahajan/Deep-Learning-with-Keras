@@ -11,3 +11,5 @@ Just run the notebook which has included following information:
 5. Use model to predict the target values
 6. Validate the model
 7. A model for regression tasks and how to fine tune your model. 
+
+More information about the dataset can be found out [here](https://archive.ics.uci.edu/ml/datasets/wine+quality). 
